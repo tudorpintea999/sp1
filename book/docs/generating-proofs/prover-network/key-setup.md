@@ -27,7 +27,7 @@ which will give you an output similar to this:
 
 ![Screenshot from running 'cast wallet new' to generate a NETWORK_PRIVATE_KEY.](../prover-network/key.png)
 
-The "Address" what you should submit in the [form](https://forms.gle/rTUvhstS8PFfv9B3A), in the example above this is `0x552f0FC6D736ed965CE07a3D71aA639De15B627b`. The "Private key" should be kept safe and
+The "Address" that you should submit in the [form](https://forms.gle/rTUvhstS8PFfv9B3A), in the example above this is `0x552f0FC6D736ed965CE07a3D71aA639De15B627b`. The "Private key" should be kept safe and
 secure. When interacting with the network, you will set your `NETWORK_PRIVATE_KEY` environment variable
 to this value.
 
